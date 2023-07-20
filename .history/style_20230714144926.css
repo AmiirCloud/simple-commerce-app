@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color1:#6C3483 ;
+    --color2:#F4F6F7 ;
+    --shadow:#707B7C ;
+
+}
+body{
+    width: 100%;
+    scroll-behavior: smooth;
+
+
+}
+header{
+    height: 100px;
+    background: var(--color1);
+}
+header .logo .h2{
+    color: var(--color2);
+    font-w
+}

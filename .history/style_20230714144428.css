@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color1:#6C3483 ;
+    --color2:#F4F6F7 ;
+    --
+}
+body{
+    scroll-behavior: sm;
+}
