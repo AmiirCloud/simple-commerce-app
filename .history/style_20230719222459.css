@@ -65,13 +65,12 @@ header nav ul  a{
     width: 90%;
     margin: auto;
 }
-.article img{
+article img{
     width: 200px;
     height: 200px;
 }
 .section .article{
-    width: 30%;
+    width: 90%;
     margin: 1.66%;
-    float: left;
-
+    
 }

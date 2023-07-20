@@ -59,19 +59,6 @@ header nav ul  a{
     padding: 7px;
     border-radius: 7px;
 }
-.section{
-
-    clear: both;
-    width: 90%;
-    margin: auto;
-}
-.article img{
-    width: 200px;
-    height: 200px;
-}
-.section .article{
-    width: 30%;
-    margin: 1.66%;
-    float: left;
-
+article img{
+    width: 100;
 }

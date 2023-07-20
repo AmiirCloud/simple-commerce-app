@@ -60,18 +60,9 @@ header nav ul  a{
     border-radius: 7px;
 }
 .section{
-
-    clear: both;
-    width: 90%;
-    margin: auto;
+    background-color: red;
 }
-.article img{
+article img{
     width: 200px;
     height: 200px;
-}
-.section .article{
-    width: 30%;
-    margin: 1.66%;
-    float: left;
-
 }
