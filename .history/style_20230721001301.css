@@ -55,9 +55,6 @@ header nav ul  a{
 .nav  a:hover{
   text-decoration: underline;
 }
-.nav a.active:hover{
-    text-decoration: none;
-}
 .nav a.active{
     background: var(--color2);
     color: var(--color1);
@@ -80,7 +77,7 @@ header nav ul  a{
     margin: 1.66%;
     padding: 5px;
     float: left;
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.15)
+    text-shadow: 23px 32px red;
 
 }
 
@@ -111,12 +108,9 @@ header nav ul  a{
 .article .dev .price span:last-child{
     color: greenyellow;
     text-decoration: line-through;
-    display: inline-block;
-    margin-right: 10px;
+    display: block;
    
-    font-size: 1.25em;
-    margin-top: 2px;
- 
+    font-size: 1em;
     color: black
     /* padding: 10px; */
 } 
@@ -124,19 +118,18 @@ header nav ul  a{
     font-size: 1.25em;
     font-weight: 500;
     letter-spacing: 2px;
-    padding: 10px 25px;
+    padding: 10px;
     background-color: var(--color1);
     border-radius: 10px;
     color: var(--color2);
     display: inline-block;
-    margin:10px ;
-    border: 1px solid var(--color1);
-
+    margin-left:10px ;
 
 
 }  
 .article .addCart:hover{
-     letter-spacing: 3px; 
+     letter-spacing: 10px; 
     color: #7D3C98;
     background-color: var(--color2); 
+    border: 1px solid var(--color1);
 }

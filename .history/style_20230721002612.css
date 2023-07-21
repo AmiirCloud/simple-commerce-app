@@ -55,9 +55,7 @@ header nav ul  a{
 .nav  a:hover{
   text-decoration: underline;
 }
-.nav a.active:hover{
-    text-decoration: none;
-}
+.nav a
 .nav a.active{
     background: var(--color2);
     color: var(--color1);
@@ -129,7 +127,7 @@ header nav ul  a{
     border-radius: 10px;
     color: var(--color2);
     display: inline-block;
-    margin:10px ;
+    margin-left:10px ;
     border: 1px solid var(--color1);
 
 
